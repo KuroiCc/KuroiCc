@@ -1,1 +1,1 @@
-![Woah!](https://github.com/KuroiCc/KuroiCc/blob/main/images/screenshot-9.png)
+![Woah!](https://github.com/KuroiCc/KuroiCc/blob/main/images/screenshot-8.png)
