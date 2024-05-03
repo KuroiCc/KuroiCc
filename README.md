@@ -1,6 +1,6 @@
 ![Woah!](https://github.com/KuroiCc/KuroiCc/blob/main/images/screenshot-1.png)
 
-### wakatime Coding Activity
+### Wakatime
 
 [![wakatime](https://wakatime.com/badge/user/2531e4ff-1c15-4930-bfe1-e98afd433897.svg)](https://wakatime.com/@2531e4ff-1c15-4930-bfe1-e98afd433897)
 
